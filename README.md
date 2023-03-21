@@ -1,4 +1,4 @@
-# Schulbuchaktion
+# Schulbuchaktion.
 
 When something is unclear as
 * Scrum Master:
